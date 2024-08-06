@@ -2,7 +2,7 @@
 const nextConfig = {
   experimental: {
       appDir: true,
-      css: true,
+      // css: true,
       serverComponentsExternalPackages: ["mongoose"],
       missingSuspenseWithCSRBailout: false
   },
